@@ -267,7 +267,7 @@ def lol(bot: Bot, update: Update):
     msg = update.effective_message.reply_text('DEKHNA AAB MAJA AAEGA')
     for x in range(EDIT_TIMES):
         msg.edit_text(lol_ani[x%5])
-        time.sleep(3)
+        time.sleep(2)
     msg.edit_text(' [MAJA AAYA](https://telegra.ph/file/984b769a1ae95b2be018e.png) ')
 
 
