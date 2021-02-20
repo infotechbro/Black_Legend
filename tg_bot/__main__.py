@@ -154,7 +154,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                                                                                  ]]))
 
     else:
-        update.effective_message.reply_text("✪᯾☞︎︎︎ 𝙱𝙻𝙰𝙲𝙺 𝙻𝙴𝙶𝙴𝙽𝙳 ☜︎︎︎᯾✪")
+        update.effective_message.reply_text("★᯾ вℓΛ¢к ℓєgєη∂ ᯾★")
 
 
 def send_start(bot, update):
