@@ -244,11 +244,11 @@ earth_ani = [
 
 
 lol_ani = [
-            " {[Waah](https://telegra.ph/file/a19b0bf4760fca85bd961.png)} ",
-            " {[LOL](https://telegra.ph/file/ed23819c84bab66e7d92f.png)} ",
-            " {[ELECTRIC BILL KON BHAREGA](https://telegra.ph/file/53c85b5b354212496746f.png)} ",
-            " {[JHINGA LALA](https://telegra.ph/file/1379a8c9ea40eaa463fd8.png)} ",
-            " {[NINJA TECHNIQUE](https://telegra.ph/file/891a05f03399fb48f40f3.png)} "
+            " [Waah](https://telegra.ph/file/a19b0bf4760fca85bd961.png) ",
+            " [LOL](https://telegra.ph/file/ed23819c84bab66e7d92f.png) ",
+            " [ELECTRIC BILL KON BHAREGA](https://telegra.ph/file/53c85b5b354212496746f.png) ",
+            " [JHINGA LALA](https://telegra.ph/file/1379a8c9ea40eaa463fd8.png) ",
+            " [NINJA TECHNIQUE](https://telegra.ph/file/891a05f03399fb48f40f3.png) "
 ]
 
 @user_admin
