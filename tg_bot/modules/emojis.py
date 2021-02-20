@@ -243,7 +243,12 @@ earth_ani = [
 
 
 
-lol_ani = [
+lol_ani = [ 
+            "1",
+            "2",
+            "3",
+            "𝚂𝚃𝙰𝚁𝚃𝙸𝙽𝙶",
+            "AB MAJA AAEGA",
             " [Waah](https://telegra.ph/file/a19b0bf4760fca85bd961.png) ",
             " [LOL](https://telegra.ph/file/ed23819c84bab66e7d92f.png) ",
             " [ELECTRIC BILL KON BHAREGA](https://telegra.ph/file/53c85b5b354212496746f.png) ",
