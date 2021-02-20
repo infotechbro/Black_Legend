@@ -76,7 +76,7 @@ EDIT_TIMES = 12
 #sleep how many times after each edit in 'lol' 
 EDIT_SLEEP = 1
 #edit how many times in 'lol' 
-EDIT_TIMES = 5
+EDIT_TIMES = 10
 
 
 
@@ -248,7 +248,7 @@ lol_ani = [
             "2",
             "3",
             "𝚂𝚃𝙰𝚁𝚃𝙸𝙽𝙶",
-            "AB MAJA AAEGA",
+            " AB MAJA AAEGA ",
             " [Waah](https://telegra.ph/file/a19b0bf4760fca85bd961.png) ",
             " [LOL](https://telegra.ph/file/ed23819c84bab66e7d92f.png) ",
             " [ELECTRIC BILL KON BHAREGA](https://telegra.ph/file/53c85b5b354212496746f.png) ",
@@ -269,9 +269,9 @@ def blockanimation(bot: Bot, update: Update):
 @user_admin
 @run_async
 def lol(bot: Bot, update: Update):
-    msg = update.effective_message.reply_text('DEKHNA AAB MAJA AAEGA')
+    msg = update.effective_message.reply_text('DEKHNA AAB MAJA AAEGA 😂')
     for x in range(EDIT_TIMES):
-        msg.edit_text(lol_ani[x%5])
+        msg.edit_text(lol_ani[x%10])
         time.sleep(2)
     msg.edit_text(' [MAJA AAYA](https://telegra.ph/file/984b769a1ae95b2be018e.png) ')
 
