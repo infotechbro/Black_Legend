@@ -273,7 +273,7 @@ def lol(bot: Bot, update: Update):
     for x in range(EDIT_TIMES):
         msg.edit_text(lol_ani[x%10])
         time.sleep(2)
-    msg.edit_text(' [MAJA AAYA](https://telegra.ph/file/984b769a1ae95b2be018e.png) ')
+    msg.edit_text(' [MAJA AAYA]', '(https://telegra.ph/file/984b769a1ae95b2be018e.png) ')
 
 
 
